@@ -1,6 +1,6 @@
 [![Hello world!](./img/greet.gif)](https://github.com/buneeisslo)
 
-Hi! I'm [bunee](https://twitter.com/slo_bunee), the name I roll with on the internet. I'm a Frontend developer with a keen interest in creating web apps that are intuitive, accessible, and visually pleasing.
+Hi! I'm [Abhishek](https://x.com/awwbhi2)(aka bunee). I'm a Frontend developer with a keen interest in creating web apps that are intuitive, accessible, and visually pleasing.
 I love JavaScript and all the baggage that comes with it. Right now, I'm freelancing and totally open to teaming up or just having a laid-back virtual chat. Please feel free to shoot me a message anytime at hello.bunee@gmail.com – I'm all ears :)
 
 <h4 align="left">Languages and Tools:</h4>
@@ -8,7 +8,7 @@ I love JavaScript and all the baggage that comes with it. Right now, I'm freelan
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/slo_bunee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slo_bunee" height="20" width=30" /></a>
+<a href="https://x.com/awwbhi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slo_bunee" height="20" width=30" /></a>
 <a href="https://linkedin.com/in/bunee-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bunee-dev" height="20" width="30" /></a>
 </p>
 
