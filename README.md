@@ -9,7 +9,7 @@ I love JavaScript and all the baggage that comes with it. I'm freelancing at the
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://x.com/awwbhi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slo_bunee" height="20" width=30" /></a>
-<a href="https://linkedin.com/in/bunee-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bunee-dev" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/2abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bunee-dev" height="20" width="30" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buneeisslo&label=Profile%20views&color=0e75b6&style=flat" alt="buneeisslo" /> </p>
